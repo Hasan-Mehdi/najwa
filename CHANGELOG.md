@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-25
 
+- Add feature demo and Manim explainer animations to the README
 - Rebuild as a live du'a follower: HMM score-following tracker, fine-tuned Whisper, on-device web app
 
 ## 2026-06-28
