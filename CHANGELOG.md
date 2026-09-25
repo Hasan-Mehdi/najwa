@@ -4,6 +4,10 @@ Every commit to Najwa's private source repository, newest first: the title only.
 source repository's `scripts/sync_showcase.py`, which makes one commit here for each one there, with
 its date.
 
+## 2026-09-25
+
+- Rebuild as a live du'a follower: HMM score-following tracker, fine-tuned Whisper, on-device web app
+
 ## 2026-06-28
 
 - initial commit
