@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-26
 
+- Held-out test sets beyond DuaPlayer: a registry, gold/silver tiers, review round-trip
 - CTC word follower: an experiment, not wired in
 - Tools for a real-user test set
 - CTC stream dumps for the pause benchmark
