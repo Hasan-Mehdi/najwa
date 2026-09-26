@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-26
 
+- Fetch and cut majlis and ordinary-voice test audio
 - Keep test venues and test voices out of training
 - Held-out test sets beyond DuaPlayer: a registry, gold/silver tiers, review round-trip
 - CTC word follower: an experiment, not wired in
