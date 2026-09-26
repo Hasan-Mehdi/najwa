@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-26
 
+- Debug sessions and an opt-in CTC word follower in the app
 - CTC word follower, round 2: lag diagnostics and line-onset options
 - Fetch and cut majlis and ordinary-voice test audio
 - Keep test venues and test voices out of training
