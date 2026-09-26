@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-26
 
+- Tools for a real-user test set
 - CTC stream dumps for the pause benchmark
 - Harvest Al-Fatemah IC streams and cut the du'as out of them
 
