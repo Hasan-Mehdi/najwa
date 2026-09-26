@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-26
 
+- Follower round 2 results: gate failed on train, no test look; ?words=ctc live check
 - Research notes: current-state review and execution plan (2026-09-26)
 - Debug sessions and an opt-in CTC word follower in the app
 - CTC word follower, round 2: lag diagnostics and line-onset options
