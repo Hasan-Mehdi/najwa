@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-25
 
+- README and results for the 506-text corpus and the new phone model
 - Phone app: switch to the whisper-base fine-tune trained on more voices
 - Write up the pause handling (docs/results/pauses.md)
 - Grow the corpus from 91 to 506 du'as and ziyarat; more training audio
