@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-25
 
+- Rework the explainer: an introduction, then one idea at a time
 - Research a noha mode: language ID, cross-script lyrics matching, fine-tunes
 - Redo the explainer in 3Blue1Brown style
 - Add feature demo and Manim explainer animations to the README
