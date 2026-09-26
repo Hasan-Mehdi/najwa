@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-26
 
+- Names people recognise for the scraped texts; drop a font-test page
 - One transliteration style for every line, from the vowelled Arabic
 - Follower doc: measured GPU word-step latency on the phone server
 - Follower round 2 results: gate failed on train, no test look; ?words=ctc live check
