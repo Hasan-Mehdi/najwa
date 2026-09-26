@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-25
 
+- Write up the pause handling (docs/results/pauses.md)
 - Grow the corpus from 91 to 506 du'as and ziyarat; more training audio
 - Follow pauses, unknown du'as and ordinary voices; align 30x faster
 - Rework the explainer: an introduction, then one idea at a time
