@@ -4,6 +4,10 @@ Every commit to Najwa's private source repository, newest first: the title only.
 source repository's `scripts/sync_showcase.py`, which makes one commit here for each one there, with
 its date.
 
+## 2026-09-26
+
+- Harvest Al-Fatemah IC streams and cut the du'as out of them
+
 ## 2026-09-25
 
 - README and results for the 506-text corpus and the new phone model
