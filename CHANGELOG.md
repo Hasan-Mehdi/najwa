@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-26
 
+- Show a passage several texts share instead of withholding it
 - Names people recognise for the scraped texts; drop a font-test page
 - One transliteration style for every line, from the vowelled Arabic
 - Follower doc: measured GPU word-step latency on the phone server
