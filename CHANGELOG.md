@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-27
 
+- Hold out test venues by channel name too; read holdout files once
 - transcribe_windows: don't load CTC models through the Whisper loader
 - Instruction lines out of the Arabic; the last untranslated lines found
 - Mend duas.org's line slips: swapped fields, late readings, blank English
