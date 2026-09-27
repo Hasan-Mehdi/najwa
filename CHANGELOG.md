@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-27
 
+- Mend duas.org's line slips: swapped fields, late readings, blank English
 - Translations and readings for the duas.org and duas.pro texts
 
 ## 2026-09-26
