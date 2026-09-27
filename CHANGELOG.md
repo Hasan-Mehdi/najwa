@@ -4,6 +4,10 @@ Every commit to Najwa's private source repository, newest first: the title only.
 source repository's `scripts/sync_showcase.py`, which makes one commit here for each one there, with
 its date.
 
+## 2026-09-27
+
+- Translations and readings for the duas.org and duas.pro texts
+
 ## 2026-09-26
 
 - Show a passage several texts share instead of withholding it
