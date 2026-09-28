@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-27
 
+- "I'm here": a tap on a line moves the tracker and the display there
 - Shared passages spelled differently count as one, for the lock too
 - Hold out test venues by channel name too; read holdout files once
 - transcribe_windows: don't load CTC models through the Whisper loader
