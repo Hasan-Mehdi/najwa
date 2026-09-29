@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-28
 
+- CI: declare yt-dlp; checkout and setup-python on Node 24
 - README: 505 texts; the reliability write-ups and newer modules
 - Reader: favourites, "for tonight", fonts and text size, share a line
 - Reliability run, step 4: Tilawa's FastConformer vs wav2vec2; wav2vec2 stays
