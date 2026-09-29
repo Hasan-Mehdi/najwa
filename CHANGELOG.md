@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-28
 
+- README in the shape of a project front page; the depth moves to docs/
 - CI: declare yt-dlp; checkout and setup-python on Node 24
 - README: 505 texts; the reliability write-ups and newer modules
 - Reader: favourites, "for tonight", fonts and text size, share a line
