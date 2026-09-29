@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-28
 
+- Reliability run, step 3: where the word follower's line lag comes from
 - Reliability run, step 2: measure the phone's speech gate; legacy stays
 - Reliability run, steps 0-1: a frozen manifest and label provenance
 - Cap debug-session uploads; a dropped upload leaves no .part behind
