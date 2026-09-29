@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-28
 
+- Reliability run, steps 0-1: a frozen manifest and label provenance
 - Cap debug-session uploads; a dropped upload leaves no .part behind
 
 ## 2026-09-27
