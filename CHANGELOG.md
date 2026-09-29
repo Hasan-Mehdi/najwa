@@ -4,6 +4,10 @@ Every commit to Najwa's private source repository, newest first: the title only.
 source repository's `scripts/sync_showcase.py`, which makes one commit here for each one there, with
 its date.
 
+## 2026-09-28
+
+- Cap debug-session uploads; a dropped upload leaves no .part behind
+
 ## 2026-09-27
 
 - "I'm here": a tap on a line moves the tracker and the display there
