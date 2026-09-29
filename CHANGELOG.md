@@ -6,6 +6,7 @@ its date.
 
 ## 2026-09-28
 
+- README: 505 texts; the reliability write-ups and newer modules
 - Reader: favourites, "for tonight", fonts and text size, share a line
 - Reliability run, step 4: Tilawa's FastConformer vs wav2vec2; wav2vec2 stays
 - Reliability run, step 3: where the word follower's line lag comes from
