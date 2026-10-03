@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-03
 
+- The stream decoder is the page's default; focused start; real-page check
 - Stream decoder: talk filler takes blanks free and resumes anywhere; follower timing in the log
 - Stream decoder: blank bias, du'a-change guard, lapse during speech; bench write-up
 - Scenario bench for every way people read; stream decoder; capture clock check
