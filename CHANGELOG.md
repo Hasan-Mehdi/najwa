@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-03
 
+- Shared-passage rules for the tracker, B1 for the stream decoder, jump diagnosis (all off)
 - Stream decoder: evidence gate into the next line (off), bench guard, page stream settings
 - Write-up: finding the du'a, the perfect-ear split, prior adopted, harvest retrains
 - Tracker prior by how often each du'a is recited, on by default (0.5)
