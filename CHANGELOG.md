@@ -4,6 +4,10 @@ Every commit to Najwa's private source repository, newest first: the title only.
 source repository's `scripts/sync_showcase.py`, which makes one commit here for each one there, with
 its date.
 
+## 2026-10-02
+
+- Phone word follower, latency, stops, repeats, jumps; data harvest tooling
+
 ## 2026-09-28
 
 - README: a results chart, a tighter front page, the new demo's caption
