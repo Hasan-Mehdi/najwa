@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-03
 
+- Stream decoder: evidence gate into the next line (off), bench guard, page stream settings
 - Write-up: finding the du'a, the perfect-ear split, prior adopted, harvest retrains
 - Tracker prior by how often each du'a is recited, on by default (0.5)
 - Popularity prior (off), fairer bench scoring, harvest clip cache for Whisper training
