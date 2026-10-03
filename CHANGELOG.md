@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-03
 
+- English for the added Mafatih texts, from duas.org's older pages
 - Add Du'a al-Sabah, al-'Adeelah, al-'Asharat and Munajat 2-15 from Mafatih
 - The stream decoder is the page's default; focused start; real-page check
 - Stream decoder: talk filler takes blanks free and resumes anywhere; follower timing in the log
