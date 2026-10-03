@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-03
 
+- Tracker: switch_sure (off), and same_as stays empty while the old du'a is held
 - Next-line gate v2 (still off): compare the words reached, hold through ties, skip identical text
 - Shared-passage rules for the tracker, B1 for the stream decoder, jump diagnosis (all off)
 - Stream decoder: evidence gate into the next line (off), bench guard, page stream settings
