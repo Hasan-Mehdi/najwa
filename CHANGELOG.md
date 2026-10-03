@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-03
 
+- Tracker prior by how often each du'a is recited, on by default (0.5)
 - Popularity prior (off), fairer bench scoring, harvest clip cache for Whisper training
 - English for the added Mafatih texts, from duas.org's older pages
 - Add Du'a al-Sabah, al-'Adeelah, al-'Asharat and Munajat 2-15 from Mafatih
