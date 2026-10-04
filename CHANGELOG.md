@@ -4,6 +4,10 @@ Every commit to Najwa's private source repository, newest first: the title only.
 source repository's `scripts/sync_showcase.py`, which makes one commit here for each one there, with
 its date.
 
+## 2026-10-04
+
+- Fix the switch confirmation under two position() calls; same-text scoring by the tracker's spelling
+
 ## 2026-10-03
 
 - Tracker: switch_sure (off), and same_as stays empty while the old du'a is held
