@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-04
 
+- Next line on evidence, on by default; shared-passage keep and B1 removed; write-up
 - Fix the switch confirmation under two position() calls; same-text scoring by the tracker's spelling
 
 ## 2026-10-03
