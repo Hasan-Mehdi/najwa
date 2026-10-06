@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-05
 
+- Page: practice mode, RemoteEar for the server engine, one capture at a time
 - Server engine: the page's own engine, with Whisper and the CTC model on the server (/ws/ear)
 - Practice mode: the line checker (Python and JS), its bench lane, the Tarteel research
 - Popularity counts: a Mafatih block no longer shares every run with its own corpus text
