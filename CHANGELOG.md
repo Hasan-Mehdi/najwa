@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-05
 
+- Practice mode: the line checker (Python and JS), its bench lane, the Tarteel research
 - Popularity counts: a Mafatih block no longer shares every run with its own corpus text
 
 ## 2026-10-04
