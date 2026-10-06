@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-05
 
+- README demo caption: what the gold and white boxes are
 - README demo: the real page beside what each model hears
 - README: today's results from the scenario bench, practice mode, an honest quick start, shorter
 - CI: install the web extra; numpy fallbacks match the numba paths
