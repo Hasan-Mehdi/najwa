@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-05
 
+- Harvest: Opus re-encode, ffmpeg decoding for labelling, no clips past a file's end
 - Session log: battery level and charging; session_report shows drain and slowdown
 - Page: practice mode, RemoteEar for the server engine, one capture at a time
 - Server engine: the page's own engine, with Whisper and the CTC model on the server (/ws/ear)
