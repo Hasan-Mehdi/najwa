@@ -4,6 +4,10 @@ Every commit to Najwa's private source repository, newest first: the title only.
 source repository's `scripts/sync_showcase.py`, which makes one commit here for each one there, with
 its date.
 
+## 2026-10-05
+
+- Popularity counts: a Mafatih block no longer shares every run with its own corpus text
+
 ## 2026-10-04
 
 - Next line on evidence, on by default; shared-passage keep and B1 removed; write-up
