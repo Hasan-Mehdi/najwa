@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-05
 
+- Docs: CLAUDE.md, and README, development, evaluation and how-it-works brought up to date
 - Explainer round 7: two questions, two listeners; the stream decoder on a real go-back
 - Demo films: five phones with audio, and the story film; the old recorder removed
 - Harvest: Opus re-encode, ffmpeg decoding for labelling, no clips past a file's end
