@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-05
 
+- README: du'a named within 10 s of the first words no other text shares
 - README demo caption: what the gold and white boxes are
 - README demo: the real page beside what each model hears
 - README: today's results from the scenario bench, practice mode, an honest quick start, shorter
