@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-05
 
+- CI: install the web extra; numpy fallbacks match the numba paths
 - Docs: CLAUDE.md, and README, development, evaluation and how-it-works brought up to date
 - Explainer round 7: two questions, two listeners; the stream decoder on a real go-back
 - Demo films: five phones with audio, and the story film; the old recorder removed
