@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-05
 
+- Demo films: Kumayl and Ashura recaptured from cleaner starts; story film round 2
 - README: du'a named within 10 s of the first words no other text shares
 - README demo caption: what the gold and white boxes are
 - README demo: the real page beside what each model hears
