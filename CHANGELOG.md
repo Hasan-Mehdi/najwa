@@ -4,6 +4,10 @@ Every commit to Najwa's private source repository, newest first: the title only.
 source repository's `scripts/sync_showcase.py`, which makes one commit here for each one there, with
 its date.
 
+## 2026-10-06
+
+- Explainer rounds 8 and 9: one recitation, start to end, with its sound
+
 ## 2026-10-05
 
 - Demo films: Kumayl and Ashura recaptured from cleaner starts; story film round 2
