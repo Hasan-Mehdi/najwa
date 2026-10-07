@@ -4,6 +4,10 @@ Every commit to Najwa's private source repository, newest first: the title only.
 source repository's `scripts/sync_showcase.py`, which makes one commit here for each one there, with
 its date.
 
+## 2026-10-07
+
+- Server engine: whisper-turbo-srv2, 3 s CTC windows every 0.05 s, a server profile; noise bench
+
 ## 2026-10-06
 
 - Explainer rounds 8 and 9: one recitation, start to end, with its sound
