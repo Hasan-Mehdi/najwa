@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-07
 
+- Phone engine: streaming CTC student, distilled Whisper, phone decoder defaults
 - Server engine: whisper-turbo-srv2, 3 s CTC windows every 0.05 s, a server profile; noise bench
 
 ## 2026-10-06
