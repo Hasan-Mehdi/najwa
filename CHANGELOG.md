@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-07
 
+- Docs: today's numbers for the phone and server engines
 - Phone engine: streaming CTC student, distilled Whisper, phone decoder defaults
 - Server engine: whisper-turbo-srv2, 3 s CTC windows every 0.05 s, a server profile; noise bench
 
