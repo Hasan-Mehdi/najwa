@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-07
 
+- Demo films: recaptured at a phone's pace; docs/demo explained
 - follow_eval: import stream_ctc where it is used (CI has no torch)
 - README demo: today's page, with the streaming letter model
 - Docs: today's numbers for the phone and server engines
