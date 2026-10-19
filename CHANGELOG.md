@@ -4,6 +4,10 @@ Every commit to Najwa's private source repository, newest first: the title only.
 source repository's `scripts/sync_showcase.py`, which makes one commit here for each one there, with
 its date.
 
+## 2026-10-19
+
+- Explainer: move the animation sources to docs/explainer and re-render
+
 ## 2026-10-07
 
 - Demo films: recaptured at a phone's pace; docs/demo explained
