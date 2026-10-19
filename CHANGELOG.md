@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-19
 
+- Accent fold for ordinary readers, text fixes, taqibat duas, page updates
 - Explainer: move the animation sources to docs/explainer and re-render
 
 ## 2026-10-07
