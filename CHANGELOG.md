@@ -4,6 +4,10 @@ Every commit to Najwa's private source repository, newest first: the title only.
 source repository's `scripts/sync_showcase.py`, which makes one commit here for each one there, with
 its date.
 
+## 2026-10-23
+
+- Page: steady loading bar, no mode switch flash, mic stops on leaving the tab
+
 ## 2026-10-19
 
 - Accent fold for ordinary readers, text fixes, taqibat duas, page updates
