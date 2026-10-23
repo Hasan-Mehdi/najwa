@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-23
 
+- Docs: sessions as bench and training data; ordinary readers write-up tightened
 - Page: steady loading bar, no mode switch flash, mic stops on leaving the tab
 
 ## 2026-10-19
