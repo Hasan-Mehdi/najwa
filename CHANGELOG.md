@@ -4,6 +4,10 @@ Every commit to Najwa's private source repository, newest first: the title only.
 source repository's `scripts/sync_showcase.py`, which makes one commit here for each one there, with
 its date.
 
+## 2026-10-27
+
+- Sessions arrive in 5 s pieces; visits log and scripts/visits.py
+
 ## 2026-10-23
 
 - Docs: sessions as bench and training data; ordinary readers write-up tightened
