@@ -6,6 +6,7 @@ its date.
 
 ## 2026-10-28
 
+- Docs: trusting the letter model less for ordinary readers, not adopted
 - Page: energy-assisted speech gate by default
 
 ## 2026-10-27
