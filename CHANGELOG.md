@@ -6,6 +6,7 @@ its date.
 
 ## 2026-11-06
 
+- Android app: the page from the APK, its three models native
 - Texts: the a'mal surahs, a ruqyah, the adhan and iqamah (549); repeated lines restart free
 
 ## 2026-10-28
