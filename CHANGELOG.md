@@ -6,6 +6,7 @@ its date.
 
 ## 2026-11-06
 
+- Public showcase: commit titles copied to Hasan-Mehdi/najwa
 - Docs: 549 texts, repeat counts, the decoder's du'a on screen, the Android app
 - Android app: the page from the APK, its three models native
 - Texts: the a'mal surahs, a ruqyah, the adhan and iqamah (549); repeated lines restart free
