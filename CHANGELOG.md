@@ -4,6 +4,10 @@ Every commit to Najwa's private source repository, newest first: the title only.
 source repository's `scripts/sync_showcase.py`, which makes one commit here for each one there, with
 its date.
 
+## 2026-11-06
+
+- Texts: the a'mal surahs, a ruqyah, the adhan and iqamah (549); repeated lines restart free
+
 ## 2026-10-28
 
 - Docs: trusting the letter model less for ordinary readers, not adopted
